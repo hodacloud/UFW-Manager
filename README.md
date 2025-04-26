@@ -1,4 +1,3 @@
-# UFW-Manager
 
 # UFW Guardian Pro - اسکریپت مدیریت فایروال اوبونتو 🔒
 
